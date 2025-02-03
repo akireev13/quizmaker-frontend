@@ -1,6 +1,6 @@
 import { RouteProps } from "react-router-dom";
 import { AppRoutes, routeHome } from "@/shared/const/router";
-import { HomePage } from "@/pages/HomePage/HomePage";
+import { HomePage } from "@/pages/HomePage";
 
 export enum AppRouteAccess {
   PUBLIC = "public",
